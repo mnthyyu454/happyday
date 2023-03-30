@@ -1,2 +1,5 @@
 It's useful!
 Just change an image!
+Change it every day!
+count
+auto change
